@@ -14,11 +14,9 @@ I build the tools I need, with AI as a pair programmer: I design the product, th
 - **[macos-apps](https://github.com/romanmbarali/macos-apps)**: ten native Swift apps I use every day. Glisse (convert a file while dragging it), Craie (draw on the screen), Jauge (what's slowing my Mac), Bilan Mails (my inbox sorted by Claude), and more.
 
 #### 🌐 Web
-- **[Portfolio](https://github.com/romanmbarali/portfolio)**: my site, designed as a Paris concept store, by day and by night. [Visit →](https://roman-mbarali.vercel.app)
 - **[Reprise](https://github.com/romanmbarali/reprise)**: a mobile web app to get back into training after an injury, with push notifications.
 - **[Moulins](https://github.com/romanmbarali/moulins)**: a promise in the morning, one true moment at night. Next.js + Redis.
 
 #### 🧰 Tools I use
 Swift · SwiftUI · C++ · JUCE · JavaScript · TypeScript · Next.js · Three.js · Python · Vercel · Claude Code · Excel · Power BI · FL Studio
 
-📫 [roman-mbarali.vercel.app](https://roman-mbarali.vercel.app)
