@@ -4,9 +4,9 @@ Business student at IÉSEG in Paris and co-founder of **LiveCount**. Born in Cha
 
 I build the tools I need, with AI as a pair programmer: I design the product, the feel and the details, and I ship it.
 
-| [![LiveCount](https://raw.githubusercontent.com/romanmbarali/livecount-showcase/main/docs/live.jpg)](https://github.com/romanmbarali/livecount-showcase) | [![Moshé Chad](https://raw.githubusercontent.com/romanmbarali/moshe-chad/main/docs/tees.jpg)](https://github.com/romanmbarali/moshe-chad) | [![The Chess Journey](https://raw.githubusercontent.com/romanmbarali/the-chess-journey/main/docs/street.jpg)](https://github.com/romanmbarali/the-chess-journey) |
-|---|---|---|
-| **LiveCount** | **Moshé Chad** | **The Chess Journey** |
+| [![LiveCount](https://raw.githubusercontent.com/romanmbarali/livecount-showcase/main/docs/clicker.jpg)](https://github.com/romanmbarali/livecount-showcase) | [![The Chess Journey](https://raw.githubusercontent.com/romanmbarali/the-chess-journey/main/docs/street.jpg)](https://github.com/romanmbarali/the-chess-journey) |
+|---|---|
+| **LiveCount** | **The Chess Journey** |
 
 #### 🚀 Ventures
 - **[LiveCount](https://github.com/romanmbarali/livecount-showcase)**: real-time occupancy for bars, clubs and venues. The staff counts at the door with a clicker, the manager follows the night live and learns from every night after. Pépite PON 2026-2027. [livecount.app →](https://livecount.app)
